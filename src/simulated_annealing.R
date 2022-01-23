@@ -1,4 +1,4 @@
-ggmap::register_google(key = "AIzaSyC4Fvn6-BIUt_f78-ZVTZ9naTsiLLUfSnc")
+ggmap::register_google(key = "error_need_a_key")
 has_google_key()
 locations <- c("NCKU",
                "No. 92, Huanhe Street, West Central District, Tainan City, 700",
